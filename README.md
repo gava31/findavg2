@@ -1,0 +1,1 @@
+# findavg_g
